@@ -4,7 +4,7 @@ Date: 3/29/17
 Exercise 5 in the Programming Projects for Chapter 4
 Description:  prompts the user for the type of beam, 1 for I-beam, 2 for rectangular
 beam and 3 for cylindrical beam, the necessary measurement data (based on the type of beam), and
-then computes and displays the beam’s rectangular moment of inertia, I.
+then computes and displays the beamâ€™s rectangular moment of inertia, I.
 */
 
 
