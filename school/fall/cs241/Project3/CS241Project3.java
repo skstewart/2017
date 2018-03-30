@@ -144,7 +144,6 @@ public class CS241Project3 {
         project.buildTrees();
         project.displayMenu();
 
-        // TODO code application logic here
     }
 
 }
